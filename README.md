@@ -10,3 +10,8 @@ npm install firebase react-native-gesture-handler@~1.3.0 react-navigation react-
 <code>
   npm install react-native-reanimated react-navigation-tabs
  </code>
+ Unistall Expo
+<code>
+  npm install --unsafe-perm -g expo-cli
+ </code>
+
