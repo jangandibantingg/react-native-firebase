@@ -11,9 +11,11 @@ npm install firebase react-native-gesture-handler@~1.3.0 react-navigation react-
   npm install react-native-reanimated react-navigation-tabs
  </code>
  <hr>
- Unistall Expo
+ Unistall Expo<br>
 <code>
   npm install --unsafe-perm -g expo-cli
  </code>
 <hr>
-isues https://github.com/expo/expo-cli/issues/283#issuecomment-450942152
+isues adb.exe not permited 
+<br>
+https://github.com/expo/expo-cli/issues/283#issuecomment-450942152
