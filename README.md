@@ -15,4 +15,5 @@ npm install firebase react-native-gesture-handler@~1.3.0 react-navigation react-
 <code>
   npm install --unsafe-perm -g expo-cli
  </code>
-
+<hr>
+isues https://github.com/expo/expo-cli/issues/283#issuecomment-450942152
